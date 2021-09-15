@@ -14,13 +14,13 @@
     
    ___Agora vamos instalar a biblioteca e fazer a clonagem do repositório:___
     
-    git clone
+    git clone https://github.com/AsmInstrutor/py_movies.git
     cd py_movies
     pip install moviepy
     
    ___Para rodar o Software é simples, veja:___
    
-    python py_movies
+    python py_movie
     
    ___Perfeito, agora que você executou, necessitará inserir o link na área em que pede!___
    
@@ -32,9 +32,9 @@
     
    ___Clonando o repositório e executando o software:___
    
-    git clone
+    git clone https://github.com/AsmInstrutor/py_movies.git
     cd py_movies
-    python py_movies
+    python py_movie
     
    ___Pronto! Tudo executado perfeitamente!___
    
