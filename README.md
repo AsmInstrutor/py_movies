@@ -28,7 +28,7 @@
    
     apt-get install git
     apt-get install python
-    pip install moviepy
+    pip install pytube
     
    ___Clonando o repositório e executando o software:___
    
