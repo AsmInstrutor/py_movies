@@ -14,5 +14,6 @@
     pip install pymovies
     git clone https://github.com/AsmIstrutor/py_movies
     cd py_movies
+    python pymovie
 
 </details>
